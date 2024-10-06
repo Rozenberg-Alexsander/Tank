@@ -8,7 +8,7 @@ public class Tank {
     private int n;
 
     public Tank() {
-        this(0, 0, 100);
+        this(0, 0, 200);
     }
 
     public Tank(int x, int y) {
